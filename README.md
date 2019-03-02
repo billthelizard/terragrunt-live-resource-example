@@ -3,6 +3,10 @@
 
 This repository is a reference implementation of the best-practice terragrunt resource definition.
 
+## Infrastructure Created by this Example
+
+![infrastructure image](https://github.com/billthelizard/terragrunt-live-resource-example/raw/image/image/terraform-best-practice-infra.png)
+
 ## Requirements
 
 * valid AWS account
